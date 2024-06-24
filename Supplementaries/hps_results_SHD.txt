@@ -1,4 +1,4 @@
-Parameters of the different leakage types for the Spiking Heidelberg Digits (SHD) dataset as found by an Optuna hyperparameter search. We also give correlation coefficients r between these parameters and the resulting accuracy:
+Parameters of the different leakage types for the Spiking Heidelberg Digits (SHD) dataset as found by an Optuna hyperparameter search:
 
 Std: tau=99.65
 Lin: a=0.02256

@@ -1,4 +1,4 @@
-Parameters of the different leakage types for the DVS128 Gesture dataset as found by an Optuna hyperparameter search. We also give correlation coefficients r between these parameters and the resulting accuracy:
+Parameters of the different leakage types for the DVS128 Gesture dataset as found by an Optuna hyperparameter search:
 
 Std: tau=134.0
 Lin: a=0.03703

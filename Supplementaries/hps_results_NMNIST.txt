@@ -1,4 +1,4 @@
-Parameters of the different leakage types for the Neuromorphic NMIST (N-MNIST) dataset as found by an Optuna hyperparameter search. We also give correlation coefficients r between these parameters and the resulting accuracy:
+Parameters of the different leakage types for the Neuromorphic NMIST (N-MNIST) dataset as found by an Optuna hyperparameter search:
 
 Std: tau=68.40
 Lin: a=0.01087
