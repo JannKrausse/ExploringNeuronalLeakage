@@ -1,5 +1,5 @@
 keras==2.9.0
+numpy==1.23.5
 optuna==3.5.0
 tensorflow==2.9.1
 tonic==1.2.6
-numpy==1.23.5
